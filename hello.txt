@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 kader3
+=======
+Kader2
+>>>>>>> origin/main
